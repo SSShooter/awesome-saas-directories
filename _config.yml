@@ -1,0 +1,32 @@
+title: "Awesome SaaS Directories"
+description: "A curated list of SaaS-specific directories — review sites, marketplaces, launch platforms — for indie SaaS founders."
+theme: jekyll-theme-cayman
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-readme-index
+  - jekyll-sitemap
+
+author:
+  name: Pawel Boguta
+  url: https://batchlisted.com
+
+twitter:
+  card: summary
+
+show_downloads: false
+
+keywords: "SaaS directories, directories for SaaS, SaaS review sites, where to list SaaS, B2B software directories"
+
+# Jekyll generates pretty URLs; default layout applies cayman to README
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+exclude:
+  - .github/
+  - CONTRIBUTING.md
+  - CODE_OF_CONDUCT.md
+  - _push.cjs
