@@ -75,6 +75,7 @@ If you're building **SaaS**, generic directory lists waste your time on the wron
 
 - **[AlternativeTo](https://alternativeto.net)** · DR 76 · dofollow · free — List as alternative to competitors.
 - **[SaaSHub](https://www.saashub.com)** · DR 76 · dofollow · free — Register then submit.
+- **[TheSaaSDir](https://thesaasdir.com)** · DR 71 · dofollow · free with badge + paid tier — One-page form, no account. Free listing needs their badge on your site; $19 one-time without it.
 - **[Similar Sites](https://www.similarsites.com)** · DA 68 · nofollow · free
 - **[Slant](https://slant.co)** · DA 58 · nofollow · free — Community-curated comparisons.
 - **[GoodFirms](https://www.goodfirms.co)** · DA 55 · dofollow · free + paid tier
